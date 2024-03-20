@@ -26,6 +26,11 @@ print(myFinalAnswerTuple[2])
 
 
 #Acesso a um dicionário pelo nome
+myFavoriteFruitDictionary = {
+  "Akua" : "apple",
+  "Saanvi" : "banana",
+  "Paulo" : "pineapple"
+}
 print(myFavoriteFruitDictionary["Akua"])
 print(myFavoriteFruitDictionary["Saanvi"])
 print(myFavoriteFruitDictionary["Paulo"])
